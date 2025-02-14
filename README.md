@@ -15,8 +15,16 @@ My first repository
 ## Description
 This is good practice in GitHub.
 
+## How to Run Program
+This program can be ran in **any** way. It is very *flexible*.
 
-**Let's try bold**
+## Files Used
+The great Hawkeye Tigerhawk is used in this repository.
 
-*How about this*
+## Additional Documentation
+This has been a fun way to learn more about GitHub.
+
+## Versioning
+*Version 1*
+
 
