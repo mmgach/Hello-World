@@ -13,7 +13,7 @@ My first repository
 *Hello World Sample*
 
 ## Description
-This is my first repository
+This is good practice in GitHub.
 
 
 **Let's try bold**
